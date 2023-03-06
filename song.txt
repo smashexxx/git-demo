@@ -1,10 +1,7 @@
 Sword and spear
 Wall of shields
-<<<<<<< HEAD
+Standing strong
+On this their chosen battle field
 
 From the lines
 And the fire
-=======
-Standing strong
-On this their chosen battle field
->>>>>>> dd5cdc7a9b806fec9b646480288d92a62029de8f
