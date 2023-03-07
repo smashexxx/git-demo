@@ -9,3 +9,5 @@ And the fire
 Some context
 
 Another line
+
+Sample line
